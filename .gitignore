@@ -1,0 +1,10 @@
+# sbt specific
+target/
+
+# Bloop
+.bsp
+
+# VS Code
+.vscode/
+
+
